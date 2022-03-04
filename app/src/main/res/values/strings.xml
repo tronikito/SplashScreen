@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SplashScreen</string>
+    <string name="title">Pedals</string>
+    <string name="emailTextHint">Email</string>
+    <string name="nameTextHint">Name</string>
+    <string name="textNewLetters">Recive Newsletter?</string>
+    <string name="textAlreadyAccount">ALREADY HAVE AN ACCOUNT</string>
+    <string name="passwordTextHint">Password</string>
+    <string name="dateTextHint">Birthdate</string>
+    <string name="helloTextLogin">Hello there! Wellcome Back!</string>
+    <string name="helloTextSignup">Hello there!</string>
+    <string name="signTextLogin">Sign in to continue</string>
+    <string name="signTextSignup">Sign up to start</string>
+    <string name="textForgot">Forgot password?</string>
+    <string name="buttonLogin">LOG IN</string>
+    <string name="buttonSignup">SIGN UP</string>
+    <string name="textNewUser">NEW USER SING UP</string>
+    <string name="helloTextForgot">Forgot password?</string>
+    <string name="signTextForgot">We just need your registered email address to send you password reset</string>
+    <string name="buttonReset">RESET PASSWORD</string>
+
+</resources>
